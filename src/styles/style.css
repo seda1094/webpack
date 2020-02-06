@@ -1,0 +1,24 @@
+@import "~normalize.css";
+@import "fontik.css";
+
+body{
+    font-family: 'WorkSans', sans-serif;
+}
+
+.constainer{
+    padding-top: 2rem;
+    background-color: aquamarine;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo{
+    background-image: url('../assets/logo.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
