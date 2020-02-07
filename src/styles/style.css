@@ -7,7 +7,7 @@ body{
 
 .constainer{
     padding-top: 2rem;
-    background-color: aquamarine;
+    background-color: rgb(159, 127, 255);
     max-width: 1000px;
     margin: 0 auto;
 }
